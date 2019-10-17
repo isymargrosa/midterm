@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Rubik&display=swap);
+
+
+
+a:link {
+	color: #072F5F;
+}
+
+a:hover {
+	color: #967bb6;
+	
+}
+
+a:visited {
+	color: #3895D3;
+}
+
+h3{
+	text-align: center;
+
+}
+
+.color{
+	border: dotted;
+	padding:5px;
+	width:500px;
+	margin-bottom: 100px;
+	background-color:#ddd3ee
+}
+
+.specific{
+	text-align: left;
+	font-size: 36px;
+	color: #340034;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.h2ading{
+	text-align: left;
+	font size:12px;
+	color:#4d004d;
+	font-family: 'Rubik', sans-serif;
+}
+
+.img-container{
+	border: dotted 10px;
+	width:550px;
+	text-align: center;
+	padding: 10px;
+}
+
+#kevin{
+	height: 350px;
+	width:520px;
+}
+
+#matt{
+	height: 350px;
+	width:520px;
+}
+
+.bold{
+	text-align: left;
+}
+
+.decorative{
+	text-align: left;
+	font size:13px;
+	color:#a28ad2;
+	font-family: 'Rubik', sans-serif;
+}
+
+.center{
+	text-align: center;
+}
+
+.floating-left{
+	float: left;
+	clear: right;
+}
+
+.float-right{
+	float: right;
+	padding: 15px;
+	clear: left;
+}
+
+footer{
+	text-align: center;
+	clear: both;
+}
+
+
